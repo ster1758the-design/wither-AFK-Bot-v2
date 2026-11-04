@@ -8,7 +8,7 @@
   "server": {
     "ip": "Witheracksmp.aternos.me",
     "port": 16378,
-    "version": "1.26.60"
+    "version": "1.26.3"
   },
   "position": {
     "enabled": true,
