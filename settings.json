@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Witheracksmp.aternos.me",
-    "port": 16378,
+    "ip": "wetherack.mcsh.gg",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
